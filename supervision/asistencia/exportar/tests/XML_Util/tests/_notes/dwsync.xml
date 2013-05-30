@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AllTests.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_apiVersion.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_attributesToString.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_collapseEmptyTags.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_createCDataSection.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_createComment.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_createEndElement.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_createStartElement.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_createTag.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_createTagFromArray.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_getDocTypeDeclaration.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_getXmlDeclaration.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_isValidName.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_raiseError.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_replaceEntities.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_reverseEntities.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBasic_splitQualifiedName.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBug_4950.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+<file name="testBug_5392.phpt" server="probell.com.mx/httpdocs/sistemaprobell/" local="128952712480000000" remote="129676798200000000" />
+</dwsync>

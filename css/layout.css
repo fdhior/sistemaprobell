@@ -1,0 +1,612 @@
+#wrapper .parent H2 {
+	POSITION: relative
+}
+#wrapper .parent H2 A.rss {
+	POSITION: absolute; WIDTH: 18px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; HEIGHT: 1.2em; TOP: 3px; RIGHT: 0px
+}
+#wrapper .chrome2 H2 A.rss {
+	TOP: 0px
+}
+#wrapper .parent H2 A.rss SPAN {
+	DISPLAY: none
+}
+BODY {
+	BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: 0px 0px
+}
+#ctag {
+	DISPLAY: none
+}
+#omni {
+	DISPLAY: none
+}
+BODY {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: tahoma,sans-serif; FONT-SIZE: 70%; PADDING-TOP: 0px
+}
+BIG {
+	LINE-HEIGHT: 1.2em
+}
+BODY {
+	LINE-HEIGHT: 1.2em
+}
+SMALL {
+	LINE-HEIGHT: 1.2em
+}
+INPUT {
+	FONT-FAMILY: tahoma,sans-serif; FONT-SIZE: 100%
+}
+SELECT {
+	FONT-FAMILY: tahoma,sans-serif; FONT-SIZE: 100%
+}
+TEXTAREA {
+	FONT-FAMILY: tahoma,sans-serif; FONT-SIZE: 100%
+}
+#page INPUT {
+	PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; PADDING-TOP: 0.2em
+}
+#page SELECT {
+	PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; PADDING-TOP: 0.2em
+}
+#page TEXTAREA {
+	PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; PADDING-TOP: 0.2em
+}
+BODY.fixedwidth {
+	FONT-SIZE: 11px
+}
+#wrapper {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 5px; PADDING-RIGHT: 4px; BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: 100% 0px; PADDING-TOP: 0px
+}
+#page:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: "."
+}
+.cf:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: "."
+}
+UL.cf LI:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: "."
+}
+.nested1 UL UL:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: "."
+}
+
+@media Handheld    
+{
+
+}
+
+@media Print    
+{
+    }
+A {
+	BACKGROUND-COLOR: transparent; COLOR: #07519a
+}
+A:link {
+	BACKGROUND-COLOR: transparent; COLOR: #07519a
+}
+A:visited {
+	BACKGROUND-COLOR: transparent; COLOR: #07519a
+}
+.parent H2 A {
+	BACKGROUND-COLOR: transparent; COLOR: #07519a
+}
+.parent H3 A {
+	BACKGROUND-COLOR: transparent; COLOR: #07519a
+}
+.nav1 A:active {
+	BACKGROUND-COLOR: transparent; COLOR: #07519a
+}
+.slides .controls SPAN {
+	BACKGROUND-COLOR: transparent; COLOR: #07519a
+}
+.slides .controls A:active {
+	BACKGROUND-COLOR: transparent; COLOR: #07519a
+}
+.simple6 INPUT.button {
+	BACKGROUND-COLOR: transparent; COLOR: #07519a
+}
+A:active {
+	BACKGROUND-COLOR: transparent; COLOR: #090
+}
+.linkedimglink4 A:active SPAN {
+	BACKGROUND-COLOR: transparent; COLOR: #090
+}
+A SPAN.custom {
+	BACKGROUND-COLOR: transparent; COLOR: #e85f17
+}
+A:link SPAN.custom {
+	BACKGROUND-COLOR: transparent; COLOR: #e85f17
+}
+.abs {
+	BACKGROUND-COLOR: transparent; COLOR: #333
+}
+BODY {
+	BACKGROUND-COLOR: transparent; COLOR: #333
+}
+OL {
+	BACKGROUND-COLOR: transparent; COLOR: #333
+}
+#rssindex #seogoal {
+	BACKGROUND-COLOR: transparent; COLOR: #333
+}
+#wrapper .player3.slides .count {
+	BACKGROUND-COLOR: transparent; COLOR: #666
+}
+.linklist2 LI {
+	BACKGROUND-COLOR: transparent; COLOR: #999
+}
+FORM CITE {
+	BACKGROUND-COLOR: transparent; COLOR: #666
+}
+.singlelist3 LI {
+	BACKGROUND-COLOR: transparent; COLOR: #666
+}
+#xnav LI.last A {
+	BACKGROUND-COLOR: transparent; COLOR: #666
+}
+.msnfoot1 .copyright {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/msft.gif); BACKGROUND-COLOR: transparent; COLOR: #636363
+}
+.msnfoot1 .copyright SPAN {
+	BORDER-BOTTOM-COLOR: #636363; BORDER-TOP-COLOR: #636363; BORDER-RIGHT-COLOR: #636363; BORDER-LEFT-COLOR: #636363
+}
+#big3 A {
+	BACKGROUND-COLOR: transparent; COLOR: #fff
+}
+#xnav A {
+	BACKGROUND-COLOR: transparent; COLOR: #fff
+}
+#brand A {
+	BACKGROUND-COLOR: transparent; COLOR: #fff
+}
+.feedlist1 DT A {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/rss_14.gif)
+}
+.feedlist1 SPAN A {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/rss_my.gif)
+}
+.feedlist1 SPAN.alerts A {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/wl_add_alerts.gif)
+}
+.feedlist1 SPAN.live A {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/wl_add_feed.gif)
+}
+.linklist7 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/breadcrumb.gif)
+}
+.linklist19 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/breadcrumb.gif)
+}
+.linklist9 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/pipe.gif)
+}
+.linklist21 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/pipe.gif)
+}
+.video1 A.linkback {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/pipe.gif)
+}
+.linklist8 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/bullet.gif)
+}
+.linklist14 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/bullet.gif)
+}
+.linklist15 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/bullet.gif)
+}
+.linklist16 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/bullet.gif)
+}
+.linklist20 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/bullet.gif)
+}
+.nested1 UL UL LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/bullet.gif)
+}
+.singlelist1 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/bullet.gif)
+}
+.singlelist4 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/bullet.gif)
+}
+.sitemaplinks1 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/bullet.gif)
+}
+.linklist17 LI {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/bullet-media.gif)
+}
+.media {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/media.gif)
+}
+.linklist17 LI .media {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/media.gif)
+}
+.simple6 INPUT.button {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/search.gif)
+}
+#wrapper .parent H2 A.rss {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/rss_12.gif)
+}
+#xnav LI.last {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/selected.gif)
+}
+#xnav LI A.collapse {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/collapse.gif)
+}
+#xnav LI A.expand {
+	BACKGROUND-IMAGE: url(/br/gbl/css/6/decoration/expand.gif)
+}
+.msnhead1 .linklist9 LI.last {
+	BACKGROUND-IMAGE: none
+}
+.linklist7 LI.last {
+	BACKGROUND-IMAGE: none
+}
+.linklist8 LI.last {
+	BACKGROUND-IMAGE: none
+}
+.linklist9 LI.last {
+	BACKGROUND-IMAGE: none
+}
+.linklist19 LI.last {
+	BACKGROUND-IMAGE: none
+}
+.linklist20 LI.last {
+	BACKGROUND-IMAGE: none
+}
+.linklist21 LI.last {
+	BACKGROUND-IMAGE: none
+}
+.nested1 UL UL LI.last {
+	BACKGROUND-IMAGE: none
+}
+.nav2 LI.first {
+	BACKGROUND-IMAGE: none
+}
+.nav2 LI.last {
+	BACKGROUND-IMAGE: none
+}
+.nav3 LI.last A {
+	BACKGROUND-IMAGE: none
+}
+.nav3 LI.pretab A {
+	BACKGROUND-IMAGE: none
+}
+.nav3 LI.expanded A {
+	BACKGROUND-IMAGE: none
+}
+.nav3 LI.selected A {
+	BACKGROUND-IMAGE: none
+}
+.nav3 LI.notselected A {
+	BACKGROUND-IMAGE: none
+}
+.nav3 UL UL {
+	BACKGROUND-IMAGE: none
+}
+.nav3 UL UL LI A {
+	BACKGROUND-IMAGE: none
+}
+.nav3 UL LI.expanded UL LI A {
+	BACKGROUND-IMAGE: none
+}
+.nav3 UL LI.selected UL LI A {
+	BACKGROUND-IMAGE: none
+}
+.singlelist4 LI.last {
+	BACKGROUND-IMAGE: none
+}
+.sitemaplinks1 UL UL LI {
+	BACKGROUND-IMAGE: none
+}
+BODY {
+	BACKGROUND-COLOR: #eee; COLOR: #333
+}
+#page {
+	BORDER-BOTTOM-COLOR: #ccc; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #ccc; COLOR: #333; BORDER-RIGHT-COLOR: #ccc; BORDER-LEFT-COLOR: #ccc
+}
+#xnav LI.last A {
+	BACKGROUND-COLOR: transparent
+}
+.chrome4.parent H3 {
+	BACKGROUND-COLOR: transparent
+}
+.chrome5.parent H3 {
+	BACKGROUND-COLOR: transparent
+}
+.chrome7.parent H3 {
+	BACKGROUND-COLOR: transparent
+}
+.player2 .chrome5 H2 {
+	BACKGROUND-COLOR: transparent
+}
+.player2.slides H2 {
+	BACKGROUND-COLOR: transparent
+}
+#more {
+	BACKGROUND-COLOR: #fff
+}
+#xnav LI.last {
+	BACKGROUND-COLOR: #fff
+}
+.linkedimglinklist12 LI.selected {
+	BACKGROUND-COLOR: #fff
+}
+.linklist11 LI.selected {
+	BACKGROUND-COLOR: #fff
+}
+.nav1 LI.selected {
+	BACKGROUND-COLOR: #fff
+}
+.nav1 UL LI.selected A {
+	BACKGROUND-COLOR: #fff
+}
+.nav2 UL {
+	BACKGROUND-COLOR: #fff
+}
+.nav2 LI.selected {
+	BACKGROUND-COLOR: #fff
+}
+.nav3 LI.selected A {
+	BACKGROUND-COLOR: #fff
+}
+.nav3 LI.notselected A {
+	BACKGROUND-COLOR: #fff
+}
+.nav3 UL {
+	BACKGROUND-COLOR: #fff
+}
+#xnav LI.last {
+	BORDER-BOTTOM-COLOR: #fff
+}
+#foot {
+	CLEAR: left
+}
+.page1 #nav {
+	FLOAT: left
+}
+.page1 #content {
+	FLOAT: left
+}
+.page1 #area1 {
+	FLOAT: left
+}
+.page1 #area2 {
+	FLOAT: left
+}
+#foot {
+	CLEAR: left
+}
+.page2 #nav {
+	FLOAT: left
+}
+.page2 #content {
+	FLOAT: left
+}
+.page2 #area1 {
+	FLOAT: left
+}
+.page2 #area2 {
+	FLOAT: left
+}
+.page2 #area3 {
+	FLOAT: left
+}
+#foot {
+	CLEAR: left
+}
+.page3 #nav {
+	FLOAT: left
+}
+.page3 #content {
+	FLOAT: left
+}
+.page3 #area1 {
+	FLOAT: left
+}
+.page3 #area2 {
+	FLOAT: left
+}
+#foot {
+	CLEAR: left
+}
+.page4 #nav {
+	FLOAT: left
+}
+.page4 #content {
+	FLOAT: left
+}
+.page4 #area1 {
+	FLOAT: left
+}
+#foot {
+	CLEAR: left
+}
+.page6 #area1 {
+	FLOAT: left
+}
+.page6 #area2 {
+	FLOAT: left
+}
+#foot {
+	CLEAR: left
+}
+.page7 #area1 {
+	FLOAT: left
+}
+.page7 #area2 {
+	FLOAT: left
+}
+.page7 #area3 {
+	FLOAT: left
+}
+#foot {
+	CLEAR: left
+}
+.page8 #content {
+	FLOAT: left
+}
+.page8 #area1 {
+	FLOAT: left
+}
+.page8 #area2 {
+	FLOAT: left
+}
+#foot {
+	CLEAR: left
+}
+.page9 #area1 {
+	FLOAT: left
+}
+.page9 #area2 {
+	FLOAT: left
+}
+.region9 {
+	MIN-WIDTH: 778px; WIDTH: 119ex
+}
+.fixedwidth .region9 {
+	WIDTH: 778px
+}
+.region9#wrapper {
+	MIN-WIDTH: 780px; WIDTH: 119.23ex
+}
+.fixedwidth .region9#wrapper {
+	WIDTH: 780px
+}
+.wide .region9 {
+	MIN-WIDTH: 972px; WIDTH: 148.6ex
+}
+.fixedwidth.wide .region9 {
+	WIDTH: 972px
+}
+.wide .region9#wrapper {
+	MIN-WIDTH: 974px; WIDTH: 149ex
+}
+.fixedwidth.wide .region9#wrapper {
+	WIDTH: 974px
+}
+.region8 {
+	MIN-WIDTH: 628px; WIDTH: 95.99ex
+}
+.fixedwidth .region8 {
+	WIDTH: 628px
+}
+.wide .region8 {
+	MIN-WIDTH: 822px; WIDTH: 125.7ex
+}
+.fixedwidth.wide .region8 {
+	WIDTH: 822px
+}
+.region7 {
+	MIN-WIDTH: 606px; WIDTH: 92.63ex
+}
+.fixedwidth .region7 {
+	WIDTH: 606px
+}
+.region6 {
+	MIN-WIDTH: 464px; WIDTH: 70.93ex
+}
+.fixedwidth .region6 {
+	WIDTH: 464px
+}
+#sitemap .region6 {
+	MIN-WIDTH: 389px; WIDTH: 59.46ex
+}
+.fixedwidth#sitemap .region6 {
+	WIDTH: 389px
+}
+.wide .region6 {
+	MIN-WIDTH: 658px; WIDTH: 100.6ex
+}
+.fixedwidth.wide .region6 {
+	WIDTH: 658px
+}
+.region5 {
+	MIN-WIDTH: 456px; WIDTH: 69.7ex
+}
+.fixedwidth .region5 {
+	WIDTH: 456px
+}
+.wide .region5 {
+	MIN-WIDTH: 508px; WIDTH: 77.6ex
+}
+.fixedwidth.wide .region5 {
+	WIDTH: 508px
+}
+.region4 {
+	MIN-WIDTH: 314px; WIDTH: 48ex
+}
+.fixedwidth .region4 {
+	WIDTH: 314px
+}
+#sitemap .region4 {
+	MIN-WIDTH: 389px; WIDTH: 59.46ex
+}
+.fixedwidth#sitemap .region4 {
+	WIDTH: 389px
+}
+.wide .page1 .region4#area1 {
+	MIN-WIDTH: 508px; WIDTH: 72.5ex
+}
+.fixedwidth.wide .page1 .region4#area1 {
+	WIDTH: 508px
+}
+.region3 {
+	MIN-WIDTH: 172px; WIDTH: 26.29ex
+}
+.fixedwidth .region3 {
+	WIDTH: 172px
+}
+.wide .page7 .region3#area3 {
+	MIN-WIDTH: 314px; WIDTH: 48ex
+}
+.fixedwidth.wide .page7 .region3#area3 {
+	WIDTH: 314px
+}
+.region2 {
+	MIN-WIDTH: 150px; WIDTH: 22.93ex
+}
+.fixedwidth .region2 {
+	WIDTH: 150px
+}
+.region1 {
+	MIN-WIDTH: 142px; WIDTH: 21.71ex
+}
+.fixedwidth .region1 {
+	WIDTH: 142px
+}
+.region3 .feedlist1 DD {
+	WIDTH: auto
+}
+.region2 .feedlist1 DD {
+	WIDTH: auto
+}
+.region1 .feedlist1 DD {
+	WIDTH: auto
+}
+.region4 .feedlist1 DT {
+	WIDTH: auto
+}
+.region3 .feedlist1 DT {
+	WIDTH: auto
+}
+.region2 .feedlist1 DT {
+	WIDTH: auto
+}
+.region1 .feedlist1 DT {
+	WIDTH: auto
+}
+.region4 .feedlist1 SPAN A {
+	MARGIN: 0px 0px 10px
+}
+.region3 .feedlist1 SPAN A {
+	MARGIN: 0px 0px 10px
+}
+.region2 .feedlist1 SPAN A {
+	MARGIN: 0px 0px 10px
+}
+.region1 .feedlist1 SPAN A {
+	MARGIN: 0px 0px 10px
+}
+#wrapper .player3.slides H2 {
+	POSITION: static
+}

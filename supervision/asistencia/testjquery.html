@@ -1,0 +1,73 @@
+<!---------------------------------------------------------------------------
+Example client script for JQUERY:AJAX -> PHP:MYSQL example
+---------------------------------------------------------------------------->
+
+<html>
+  <head>
+    <script language="javascript" type="text/javascript" src="jquery-1.7.1.js"></script>
+  </head>
+  <body>
+
+  <!-------------------------------------------------------------------------
+  1) Create some html content that can be accessed by jquery
+  -------------------------------------------------------------------------->
+  <h2> Client example </h2>
+  <h3>Output: </h3>
+  <div id="output">this element will be accessed by jquery and this text replaced</div>
+
+  <script id="source" language="javascript" type="text/javascript">
+
+  var rs = new Array(); 
+
+  function obtenHuella(index) 
+  {
+    // var data;
+    $(function () 
+    {
+      //-----------------------------------------------------------------------
+      // 2) Send a http request with AJAX http://api.jquery.com/jQuery.ajax/
+      //-----------------------------------------------------------------------
+      $.ajax({                                      
+      url: 'asistencia_obtenhuella.php',  //the script to call to get data          
+      data: "idempleado="+index,                   //you can insert url argumnets here to pass to api.php
+                                          //for example "id=5&parent=6"
+      dataType: 'json',                   //data format      
+      success: function(data)             //on recieve of reply
+      {
+        /* var idempleado = data[0];         //get id
+        var huella     = data[1];         //get name
+        //--------------------------------------------------------------------
+        // 3) Update html content
+        //--------------------------------------------------------------------
+        $('#output').html("<b>id: </b>"+idempleado+"<b> name: </b>"+huella); //Set output element html
+        
+        rs = data;
+        //recommend reading up on jquery selectors they are awesome 
+        // http://api.jquery.com/category/selectors/ */
+
+          for (var i in data)
+          {
+            var datarow = data[i];          
+
+            var result = datarow[0];
+            // var name = datarow[1];
+            $('#output').append("<br /><b>Resultado: </b>"+result+"<b><br />");
+            // "+vname).append("<br />");
+          } 
+          rs = data;  
+      } 
+      });
+    }); 
+
+    alert("JavaScript Was Executed from Java huella empleado 1:"+rs[0]);
+    return rs;
+    
+
+  };
+
+  </script>
+
+  <input name="button" type="submit" id="button" value="Obten Huella" onclick="obtenHuella(3)" />
+
+  </body>
+</html>

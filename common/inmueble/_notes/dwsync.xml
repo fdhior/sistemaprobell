@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="common_inmueblelistado.js" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129569500000000000" remote="129624936600000000" />
+<file name="common_actualizainmueble.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129425203620000000" remote="129528276600000000" />
+<file name="common_agregainmueble.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129585823740000000" remote="129624936600000000" />
+<file name="common_consultainmuebledirectorio.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129519470080000000" remote="129528277200000000" />
+<file name="common_consultainmueblelistado.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129522789300000000" remote="129528277200000000" />
+<file name="common_consultarinmuebles.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129519452560000000" remote="129528277200000000" />
+<file name="common_eliminainmueble.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129425203640000000" remote="129528277200000000" />
+<file name="common_eliminarinmuebles.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129428577440000000" remote="129528277200000000" />
+<file name="common_inmueble.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129585823740000000" remote="129624936600000000" />
+<file name="common_inmueblelistado.ori.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129425203660000000" remote="129528277200000000" />
+<file name="common_inmueblelistado.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129519420220000000" remote="129528277200000000" />
+<file name="common_modificainmueble.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129428578040000000" remote="129528277200000000" />
+<file name="common_modificarinmuebles.ori.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129425203680000000" remote="129528277200000000" />
+<file name="common_modificarinmuebles.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129544465300000000" remote="129550717200000000" />
+<file name="common_muestranumeros.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129446901260000000" remote="129528277200000000" />
+<file name="config.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129446872040000000" remote="129528277200000000" />
+<file name="grid.class.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129446868240000000" remote="129528277200000000" />
+<file name="common_encargados.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129544425300000000" remote="129550717200000000" />
+<file name="common_encargadoslistado.php" server="ftp.zobyhost.com/htdocs/sistemaprobell/" local="129544564260000000" remote="129550717200000000" />
+<file name="common_actualizainmueble.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129425239620000000" remote="129676792200000000" />
+<file name="common_agregainmueble.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129585859740000000" remote="129676792200000000" />
+<file name="common_consultainmuebledirectorio.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129519506080000000" remote="129676792200000000" />
+<file name="common_consultainmueblelistado.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129522825300000000" remote="129676792200000000" />
+<file name="common_consultarinmuebles.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129519488560000000" remote="129676792200000000" />
+<file name="common_eliminainmueble.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129425239640000000" remote="129676792200000000" />
+<file name="common_eliminarinmuebles.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129428613440000000" remote="129676792200000000" />
+<file name="common_encargados.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129544461300000000" remote="129676792200000000" />
+<file name="common_encargadoslistado.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129544600260000000" remote="129676792200000000" />
+<file name="common_inmueble.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129585859740000000" remote="129676792200000000" />
+<file name="common_inmueblelistado.js" server="probell.com.mx/httpdocs/sistemaprobell/" local="129569536000000000" remote="129676792200000000" />
+<file name="common_inmueblelistado.ori.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129425239660000000" remote="129676792200000000" />
+<file name="common_inmueblelistado.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129519456220000000" remote="129676792200000000" />
+<file name="common_modificainmueble.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129428614040000000" remote="129676792200000000" />
+<file name="common_modificarinmuebles.ori.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129425239680000000" remote="129676792200000000" />
+<file name="common_modificarinmuebles.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129544501300000000" remote="129676792200000000" />
+<file name="common_muestranumeros.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129446937260000000" remote="129676792200000000" />
+<file name="config.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129446908040000000" remote="129676792200000000" />
+<file name="grid.class.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129446904240000000" remote="129676792200000000" />
+<file name="common_modificarejilla.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="129340653920000000" remote="129676792200000000" />
+<file name="error_handler.php" server="probell.com.mx/httpdocs/sistemaprobell/" local="127850267480000000" remote="129676792200000000" />
+</dwsync>

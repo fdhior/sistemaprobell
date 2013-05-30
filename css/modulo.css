@@ -1,0 +1,404 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: none;
+}
+
+.letra_predeterminada {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000;
+}
+
+.letra_predeterminada10 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000;
+}
+
+.letra_predeterminada12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+}
+
+.letra_predeterminadamargen {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	margin-left: 26px;
+}
+
+.input_predeterminada {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.boton_predeterminado {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.parrafo-2 {
+    margin: 0;
+	padding: 0 0px 0px 25px;
+	font-family: Verdana, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: left;
+	color: #000000;
+	background-color: inherit;
+}	
+
+.resumenHeader {
+	margin: 0;
+	position: relative;
+	left: 25px;
+	/*width: 700px;*/
+	background-position: center;
+	height: 20px;
+	background-image: url(../images/bg-submenu-td2.png);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	font-variant: normal;
+	border: thin solid #FFF;
+	text-align: center;
+}
+
+.tablaResultados {
+	margin: 0;
+	position: relative;
+	left: 0px;
+	width: 700px;
+	background-position: center;
+	height: 15px;
+	font-family: Verdana, sans-serif;
+	font-size: 10px;
+	font-variant: small-caps;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+#right_bg {
+	position: relative;
+	top: 0px;
+	right: 50px;
+	width: 700px;
+/*	height: 200px;*/
+	padding: 20px 0px 0px 0px;
+	background-image: url(../images/tit_bg-2.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 2px;
+	z-index:2;
+	left: 25px;
+}
+
+/* common_modificarinmuebles */
+
+.tblHeaderStd {
+	margin: 0;
+	position: relative;
+	width: 972px;
+	height: 20px;
+	background-position: center;
+	background-image: url(../images/bg-submenu-td2.png);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	font-variant: normal;
+	text-align: center;
+}
+
+.tblShortHeaderStd {
+	margin: 0;
+	position: relative;
+	width: 630px;
+	height: 20px;
+	background-position: center;
+	background-image: url(../images/bg-submenu-td2.png);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	font-variant: normal;
+	text-align: center;
+}
+
+
+.tbl964HeaderStd {
+	margin: 0;
+	position: relative;
+	width: 964px;
+	height: 20px;
+	background-position: center;
+	background-image: url(../images/bg-submenu-td2.png);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	font-variant: normal;
+	text-align: center;
+}
+
+.tbl400HeaderStd {
+	margin: 0;
+	position: relative;
+	width: 400px;
+	height: 20px;
+	background-position: center;
+	background-image: url(../images/bg-submenu-td2.png);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	font-variant: normal;
+	text-align: center;
+}
+
+.tblHeaderStdLeft {
+	margin: 0;
+	position: relative;
+	height: 20px;
+	background-position: top;
+	background-image: url(../images/bg-submenu-td2.png);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	font-variant: normal;
+	text-align: left;
+}
+
+
+.tblResultStd {
+	margin: 0;
+	position: relative;
+	width: 975px;
+	height: 60px;
+	background-position: top;
+	background-image: url(../images/bg-submenu-td2.png);
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	text-align: center;
+	font-variant: small-caps;
+}
+
+.tblConfirmStd {
+	margin: 0;
+	position: relative;
+	width: 900px;
+	height: 60px;
+	background-position: top;
+	background-image: url(../images/bg-submenu-td2.png);
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	text-align: center;
+	font-variant: small-caps;
+}
+
+
+.tblTDStd {
+	height: 38px;
+	background-color: #FFF;
+	background-image: none;
+	text-align: center;
+	vertical-align: middle;
+	color: #000;
+	font-variant: normal;
+	border: 0.5px solid #000;
+}
+
+.tblBttnStd {
+	position: relative;
+	margin-left: 26px;
+}
+
+/* common_consultarinmuebles */
+
+.tblConsultaHeader {
+	margin: 0;
+	position: relative;
+	width: 790px;
+	height: 20px;
+	background-position: center;
+	background-image: url(../images/bg-submenu-td2.png);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	text-align: center;
+}
+
+
+.celda_vacia {
+	background-color: #FFF;
+	border: thin solid #FFF;
+}
+
+
+.tablamoduser {
+	position: relative;
+ 	left: 26px;
+	width: 973px;
+}
+
+/* Modificar Cursos */
+
+.textoext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #000;
+	position: relative;
+	width: 880px;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	text-align: center;
+	left: 26px;
+	background-color: #DBD7CE;
+	border: 1px solid #999;
+}
+
+.curso {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: small-caps;
+	color: #FFF;
+	background-color: #369;
+	padding: 0 4px 0 4px;
+}
+
+.tienda {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: small-caps;
+	color: #FFF;
+	background-color: #012258;
+	padding: 0 4px 0 4px;
+}
+
+.confirmado {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: small-caps;
+	color: #FFFFFF;
+	background-color: #008200;
+	padding: 0 4px 0 4px;
+}
+
+.cancelado {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: small-caps;
+	color: #FFFFFF;
+	background-color: #B70000;
+	padding: 0 4px 0 4px;
+}
+
+.porconfirmar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: small-caps;
+	color: #000;
+	background-color: #F90;
+	padding: 0 4px 0 4px;
+}
+
+.folio {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-variant: small-caps;
+	color: #FFF;
+	background-color: #0076EC;
+	padding: 0 4px 0 4px;
+}
+
+
+/* Comun a listados */
+
+.letraListado {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+.row-odd {
+	BACKGROUND-COLOR: #D8ECF5;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	/*border: 1px solid #000;*/
+}
+
+.row-even {
+	BACKGROUND-COLOR: #F3F8F8;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	/*border: 1px solid #000; */
+}
+
+.letra_boton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	font-variant: normal;
+}
+
+.letra_boton10 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	font-variant: normal;
+}
+
+.letra_boton11 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	font-variant: normal;
+}
+
+.letra_boton12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	font-variant: normal;
+}
+
+.borde_celda {
+	border: 1px solid #000;
+}
+
+/* Asistencia*/
+
+.resalta {
+	border: thin solid #39F;
+}
+
+.resaltaedicion {
+	border: 2px solid #C00;
+}
+
+.listTable {
+	border: 1px solid #000;	
+}

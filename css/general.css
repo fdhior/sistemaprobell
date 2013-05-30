@@ -1,0 +1,164 @@
+/********************************************************************************
+ - Estilos para el Body -
+********************************************************************************/
+.bodyStyle{
+	margin:0px;
+	background-color:#FFFFFF;
+}
+
+/********************************************************************************
+ - Contenedor de los flashes del home -
+********************************************************************************/
+.headerHomeContainer3{
+	background-image:url(file:///O|/xampplite/htdocs/images/bg_v7.jpg); 
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+
+.headerHomeContainer2{
+	background-image:url(file:///O|/xampplite/htdocs/images/bg_v6.jpg); 
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+/********************************************************************************
+ - Tìtulos de los pods -
+********************************************************************************/
+.titles {
+	font: 15px "Lucida Grande", trebuchet, Verdana, sans-serif;
+	color: #2e3f6b;
+}
+
+/********************************************************************************
+ - BG para los banners -
+********************************************************************************/
+.bannersBG{
+	background-image: url(file:///O|/xampplite/htdocs/images/btshadow.gif);
+	background-repeat: repeat-x;
+}
+/********************************************************************************
+ - Pods -
+********************************************************************************/
+.pods {
+	font-family:"Lucida Grande", trebuchet, Verdana, sans-serif;
+	font-size: 11px;
+	color: #659bbd;
+}
+
+/********************************************************************************
+ - Estilos para menú -
+********************************************************************************/
+.menuText {
+	font-family:Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color: #404c97;
+}
+.menuPipe{
+	font-weight:bold;
+	color:#ffd6bf;
+}
+a.menuLink:link{
+	color: #404c97;
+	text-decoration:none;
+	font-weight:bold;
+}
+a.menuLink:visited{
+	color: #404c97;
+	text-decoration:none;
+	font-weight:bold;
+}
+a.menuLink:active{
+	color: #404c97;
+	text-decoration:none;
+	font-weight:bold;
+}
+a.menuLink:hover{
+	color: #404c97;
+	text-decoration:underline;
+	font-weight:bold;
+}
+/********************************************************************************
+ - Contenido textual -
+********************************************************************************/
+.defaultTitle {
+	font-family:Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	color: #2e3f6b;
+	vertical-align: 8px;
+}
+
+.defaultSubtitle {
+	font-family:Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #2e3f6b;
+	vertical-align: 8px;
+}
+
+.defaultText {
+	font-family:Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #659bbd;
+	vertical-align: 9px;
+}
+
+
+.defaultTextColumn {
+	font-family:Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color: #ffffff;
+	vertical-align: 9px;
+	font-weight:light;
+}
+
+
+/********************************************************************************
+ - Estilos para noticias -
+********************************************************************************/
+a.newsLink:link {
+	font-family:Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #659bbd;
+	text-decoration:none;
+}
+a.newsLink:active {
+	font-family:Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #659bbd;
+	text-decoration:none;
+}
+a.newsLink:visited {
+	font-family:Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #659bbd;
+	text-decoration:none;
+}
+a.newsLink:hover {
+	font-family:Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #2e3f6b;
+	text-decoration:underline;
+}
+
+/********************************************************************************
+ - Estilos para el path -
+********************************************************************************/
+.pathText{
+	font-family:Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#afb0b6;
+}
+a.pathLink:link{
+	color: #afb0b6;
+	text-decoration:none;
+}
+a.pathLink:visited{
+	color: #afb0b6;
+	text-decoration:none;
+}
+a.pathLink:active{
+	color: #afb0b6;
+	text-decoration:none;
+}
+a.pathLink:hover{
+	color:#999999;
+	text-decoration:underline;
+}

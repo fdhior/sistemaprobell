@@ -1,0 +1,188 @@
+body
+{
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        font-style: normal;
+        font-weight: normal;
+        font-variant: small-caps;
+}
+
+/*table
+{
+  width: 500px;
+}*/
+
+
+/*background-color: navy;*/
+
+/*td
+{
+  text-align: left;
+  color: black;
+}
+
+td.right
+{
+ 
+  color: darkblue;
+  text-align: right;
+  width: 125px
+}
+
+td.left
+{
+  color: darkblue;
+  text-align: left;
+  width: 125px
+}
+*/
+/*table.list
+{
+  border: black 1px solid;
+}*/
+
+
+input.editEnc
+{
+  border: black 1px solid;	
+  width: 140px
+}
+
+input.showDirec
+{
+  border: black 1px solid;	
+  width: 50px;	
+  height: 30px;		 
+}
+
+textarea.editDirec
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-variant: small-caps;
+	border: black 1px solid;
+	width: 150px;
+	height: 60px;
+}
+
+#apDiv1 {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:951px;
+	height:100%;
+	z-index:1;
+	/*border: thin solid #000;	border: 2px solid #999; */
+}
+
+
+#list_table  {
+	/*border: 1px solid #000;*/
+ 	padding: 0px;
+/*	width: 964px;
+*/}
+
+.hid_td	{
+	position: absolute;
+	visibility: hidden;
+	width: 5px;
+	height: 5px;
+}
+
+/* No. */
+.table_td1 {
+	width: 31px;
+	position: relative;
+  /*border: 1px solid #000000;*/
+    left: 0px;
+	text-align: center;
+/*	border: thin solid #CCC; */
+	padding: 0px;
+}
+
+/* Archivo */
+.table_td2 {
+	width: 110px;
+/*  border: 1px solid #000000; */
+    position: relative;
+    left: 0px;
+    text-align: center;
+/*	border: thin solid #CCC;*/
+	padding: 0px;
+}
+
+/* Tamaño */
+.table_td3 {
+	width: 110px;
+    position: relative;
+    left: 0px;
+    text-align: center;
+/*	border: thin solid #CCC;*/
+	padding: 0px;
+}
+
+/* Almacen Origen */
+.table_td4 {
+    width: 180px;
+    position: relative;
+    left: 0px;
+    text-align: center;
+/*	border: thin solid #CCC;*/
+	padding: 0px;
+}
+
+/* Enviado en */
+.table_td5 {
+	width: 180px;
+	position: relative;
+	left: 0px;
+	text-align: center;
+	/*	border: thin solid #CCC;*/
+	padding: 0px;
+}
+
+/* Descargar */
+.table_td6 {
+	width: 100px;
+    position: relative;
+    left: 0px;
+    text-align: center;
+/*	border: thin solid #CCC;*/
+	padding: 0px;
+}
+
+.table_td7 {
+	width: 90px;
+	position: relative;
+	left: 0px;
+	text-align: center;
+/*	border: thin solid #CCC;*/
+	padding: 0px;
+}
+
+.table_td8 {
+	width: 75px;
+	position: relative;
+	left: 0px;
+	text-align: center;
+/*	border: thin solid #CCC;*/
+	padding: 0px;
+}
+
+.table_td9 {
+	width: 55px;
+	position: relative;
+	left: 0px;
+	text-align: center;
+/*	border: thin solid #CCC;*/
+	padding: 0px;
+}
+
+.select1 {
+	width: 170px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-variant: small-caps;
+}
